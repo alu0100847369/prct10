@@ -38,6 +38,7 @@ finish the remaining cases.
 \section{Historia del cálculo del valor \PI}
 La búsqueda del mayor número de decimales del número \PI ha supuesto un esfuerzo constante
 de numerosos científicos a lo largo de la historia. Algunas aproximaciones históricas de \PI son las siguientes.
+\includegraphics[scale=0.15]{200px-Pi-CM.svg.png}
 
 \subsection{Antigüo Egipto}
 El valor aproximado de \PI en las antiguas culturas se remonta a la época del escriba egipcio Ahmes en el año 1800 a. C.,
@@ -48,7 +49,7 @@ diámetro. En notación moderna:
 \subsection{Mesopotamia}
 Algunos matemáticos mesopotámicos empleaban, en el cálculo de segmentos, valores de \PI igual a 3, alcanzando en algunos
 casos valores más aproximados, como el de:
-
+{\pi}=3+\frac{1}{8}=3,125
 
 
 \section{Características matemáticas}
