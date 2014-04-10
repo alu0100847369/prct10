@@ -1,0 +1,933 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2014.1.24)  10 APR 2014 12:37
+entering extended mode
+ %&-line parsing enabled.
+**memte.tex
+(./memte.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, loaded.
+(/usr/share/texmf-texlive/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/size11.clo
+File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/etc/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2009/08/28 v1.8 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: dvips.def on input line 91.
+
+(/usr/share/texmf-texlive/tex/latex/graphics/dvips.def
+File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/epsfig.sty
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+\epsfxsize=\dimen105
+\epsfysize=\dimen106
+)
+(/usr/share/texmf-texlive/tex/latex/base/inputenc.sty
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+
+(/usr/share/texmf-texlive/tex/latex/base/latin1.def
+File: latin1.def 2008/03/30 v1.1d Input encoding file
+))
+(/usr/share/texmf-texlive/tex/generic/babel/babel.sty
+Package: babel 2008/07/06 v3.8l The Babel package
+
+(/usr/share/texmf-texlive/tex/generic/babel/spanish.ldf
+Language: spanish.ldf 2009/01/02 v5.0h Spanish support from the babel system
+
+(/usr/share/texmf-texlive/tex/generic/babel/babel.def
+File: babel.def 2008/07/06 v3.8l Babel common definitions
+\babel@savecnt=\count87
+\U@D=\dimen107
+)
+
+Package babel Warning: No hyphenation patterns were loaded for
+(babel)                the language `Spanish'
+(babel)                I will use the patterns loaded for \language=0 instead.
+
+\l@spanish = a dialect from \language0
+\es@datefmt=\count88
+\es@quottoks=\toks17
+\es@quotdepth=\count89
+Package babel Info: Making " an active character on input line 492.
+Package babel Info: Making . an active character on input line 585.
+Package babel Info: Making < an active character on input line 630.
+Package babel Info: Making > an active character on input line 630.
+)) (/usr/share/texmf-texlive/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/share/texmf-texlive/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+)) (./memte.aux)
+\openout1 = `memte.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <17.28> on input line 22.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 22.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.22 \maketitle
+               
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.22 \maketitle
+               
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.22 \maketitle
+               
+? 
+! Extra }, or forgotten \endgroup.
+\@maketitle ...note \thanks {\LARGE \@title \par }
+                                                  \vskip 1.5em{\large \lines...
+l.22 \maketitle
+               
+? 
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 22.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 22.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 22.
+(/usr/share/texmf-texlive/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 22.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 38.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 38.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 39.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.40 ...la historia. Algunas aproximaciones hist√≥
+                                                  ricas de \PI son las sigui...
+
+? 
+! Extra }, or forgotten $.
+\maththreesuperior ->{^3}
+                         
+l.40 ...la historia. Algunas aproximaciones hist√≥
+                                                  ricas de \PI son las sigui...
+
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.40 ... Algunas aproximaciones hist√≥ricas de \PI
+                                                   son las siguientes.
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.40 ... Algunas aproximaciones hist√≥ricas de \PI
+                                                   son las siguientes.
+? 
+
+Overfull \hbox (5.22119pt too wide) in paragraph at lines 39--41
+[]\T1/cmr/m/n/10.95 La b√$[]$squeda del may-or n√$[]$mero de dec-i-males del n√
+$[]$mero $\OML/cmm/m/it/10.95 ^^Y$ \T1/cmr/m/n/10.95 ha supuesto
+ []
+
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 43.
+! Missing $ inserted.
+<inserted text> 
+                $
+l.43 ...√©poca del escriba egipcio Ahmes en el a√±
+                                                  o 1800 a. C.,
+? 
+
+LaTeX Warning: Citation `Robins' on page 1 undefined on input line 44.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.44 ...donde se emplea un valor aproximado de \PI
+                                                   afirmando que el √°rea de...
+
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.44 ...donde se emplea un valor aproximado de \PI
+                                                   afirmando que el √°rea de...
+
+? 
+! Too many }'s.
+\PI ->{$\pi $ }
+               
+l.44 ...donde se emplea un valor aproximado de \PI
+                                                   afirmando que el √°rea de...
+
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.46 di√°metro. En notaci√≥
+                           n moderna:
+? 
+! Extra }, or forgotten $.
+\maththreesuperior ->{^3}
+                         
+l.46 di√°metro. En notaci√≥
+                           n moderna:
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.47 
+     
+? 
+
+Overfull \hbox (0.43797pt too wide) in paragraph at lines 43--47
+[]\T1/cmr/m/n/10.95 El val-or aprox-i-ma-do de $\OML/cmm/m/it/10.95 ^^Y$ \T1/cm
+r/m/n/10.95 en las an-tiguas cul-turas se re-mon-ta a la √[]poca
+ []
+
+
+Overfull \hbox (184.60591pt too wide) in paragraph at lines 43--47
+\T1/cmr/m/n/10.95 del es-cri-ba egip-cio Ahmes en el a√$\OMS/cmsy/m/n/10.95 ^^F
+\OML/cmm/m/it/10.95 o\OT1/cmr/m/n/10.95 1800\OML/cmm/m/it/10.95 a:C:; descritoe
+nelpapiroRhind\OT1/cmr/m/n/10.95 [[]]\OML/cmm/m/it/10.95 ; dondeseempleaunvalor
+aproximadode[]$$^^Y$
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.58 ...ue el primero en demostrar que la relaci√≥
+                                                  n entre una circunferencia...
+
+? 
+! Extra }, or forgotten $.
+\maththreesuperior ->{^3}
+                         
+l.58 ...ue el primero en demostrar que la relaci√≥
+                                                  n entre una circunferencia...
+
+? 
+
+LaTeX Warning: Command \~ invalid in math mode on input line 58.
+
+
+LaTeX Warning: Command \textexclamdown invalid in math mode on input line 58.
+
+
+LaTeX Warning: Citation `Eucli' on page 1 undefined on input line 58.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 59.
+
+
+LaTeX Warning: Command \textordmasculine invalid in math mode on input line 59.
+
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.59 ...sten diversas definiciones del n√∫mero \PI
+                                                  , pero las m√°s com√∫n es:
+? 
+Missing character: There is no √ in font cmr10!
+Missing character: There is no Ω in font cmr10!
+Missing character: There is no √ in font cmr10!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.59 ...sten diversas definiciones del n√∫mero \PI
+                                                  , pero las m√°s com√∫n es:
+? 
+
+Overfull \hbox (468.98947pt too wide) in paragraph at lines 58--60
+[]\T1/cmr/m/n/10.95 Euclides fue el primero en de-mostrar que la relaci√$[]\OML
+/cmm/m/it/10.95 nentreunacircunferenciaysudimetroesunacantidadconstante\OT1/cmr
+/m/n/10.95 [[]]\OML/cmm/m/it/10.95 :Noobstante; existendiversasdefinicionesdeln
+[]mero[]$$^^Y$
+ []
+
+[1
+
+]
+! Missing $ inserted.
+<inserted text> 
+                $
+l.62 \item \PI es la relaci√≥
+                             n entre la longitud de una circunferencia y su ...
+
+? 
+! Extra }, or forgotten $.
+\maththreesuperior ->{^3}
+                         
+l.62 \item \PI es la relaci√≥
+                             n entre la longitud de una circunferencia y su ...
+
+? 
+
+LaTeX Warning: Command \~ invalid in math mode on input line 62.
+
+
+LaTeX Warning: Command \textexclamdown invalid in math mode on input line 62.
+
+
+! LaTeX Error: Command \end{itemize} invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.63 \end{itemize}
+                  
+? 
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.63 \end{itemize}
+                  
+? 
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.63 \end{itemize}
+                  
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.63 \end{itemize}
+                  
+? 
+Missing character: There is no √ in font cmr10!
+Missing character: There is no Ω in font cmr10!
+! Missing } inserted.
+<inserted text> 
+                }
+l.63 \end{itemize}
+                  
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.75 \item La ecuaci√≥
+                      n sobre los n√∫meros complejos $e^{ix}+1=0$ admite una...
+
+? 
+! Extra }, or forgotten $.
+\maththreesuperior ->{^3}
+                         
+l.75 \item La ecuaci√≥
+                      n sobre los n√∫meros complejos $e^{ix}+1=0$ admite una...
+
+? 
+
+LaTeX Warning: Command \~ invalid in math mode on input line 75.
+
+
+LaTeX Warning: Command \textordmasculine invalid in math mode on input line 75.
+
+
+Missing character: There is no √ in font cmr10!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.75 ...ecuaci√≥n sobre los n√∫meros complejos $e^
+                                                  {ix}+1=0$ admite una infin...
+
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.75 ...luciones reales positivas, la m√°s peque√±
+                                                  a de las cuales es precisa...
+
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.75 ...peque√±a de las cuales es precisamente \PI
+                                                  .
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.75 ...peque√±a de las cuales es precisamente \PI
+                                                  .
+? 
+
+Overfull \hbox (67.66461pt too wide) in paragraph at lines 75--76
+\T1/cmr/m/n/10.95 finidad de solu-ciones reales pos-i-ti-vas, la m√Ωs peque√$\O
+MS/cmsy/m/n/10.95 ^^F\OML/cmm/m/it/10.95 adelascualesesprecisamente[]$$^^Y$
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.76 \item La ecuaci√≥
+                      n diferencial $S''(x)+S(x)=0$ con las condiciones de c...
+
+? 
+! Extra }, or forgotten $.
+\maththreesuperior ->{^3}
+                         
+l.76 \item La ecuaci√≥
+                      n diferencial $S''(x)+S(x)=0$ con las condiciones de c...
+
+? 
+
+LaTeX Warning: Command \~ invalid in math mode on input line 76.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 76.
+
+
+LaTeX Warning: Command \textordmasculine invalid in math mode on input line 76.
+
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 77.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 77.
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <9> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 77.
+! Missing $ inserted.
+<inserted text> 
+                $
+l.77 ...ositiva m√°s peque√±a es precisamente \PI}
+                                                  .
+? 
+! Extra }, or forgotten $.
+\maththreesuperior ->{^3}
+                         
+l.77 ...ositiva m√°s peque√±a es precisamente \PI}
+                                                  .
+? 
+
+LaTeX Warning: Command \~ invalid in math mode on input line 77.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 77.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 77.
+
+Missing character: There is no √ in font cmr9!
+Missing character: There is no √ in font cmr9!
+Missing character: There is no √ in font cmr9!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.77 ...ositiva m√°s peque√±a es precisamente \PI}
+                                                  .
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.77 ...ositiva m√°s peque√±a es precisamente \PI}
+                                                  .
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.77 ...ositiva m√°s peque√±a es precisamente \PI}
+                                                  .
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.77 ...ositiva m√°s peque√±a es precisamente \PI}
+                                                  .
+? 
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--77
+[][]\T1/cmr/m/n/9 garantizada por el teo-re-ma de Picard-Lindel√\OMS/cmsy/m/n/9
+ {\T1/cmr/m/n/9 f, es un funci√$[]\OML/cmm/m/it/9 nanal\T1/cmr/m/n/9 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--77
+\OML/cmm/m/it/9 tica\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 lafunci[]ntrigonom[]trica$$
+[]\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 x\OT1/cmr/m/n/9 )$\T1/cmr/m/n/9 ) cuya ra√-z 
+pos-i-ti-va m√Ωs
+ []
+
+
+! LaTeX Error: Command \end{itemize} invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.78 \end{itemize}
+                  
+? 
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.78 \end{itemize}
+                  
+? 
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.78 \end{itemize}
+                  
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.78 \end{itemize}
+                  
+? 
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+! Missing } inserted.
+<inserted text> 
+                }
+l.78 \end{itemize}
+                  
+? 
+
+Overfull \hbox (191.88428pt too wide) in paragraph at lines 76--79
+[]\T1/cmr/m/n/10.95 La ecuaci√$[]\OML/cmm/m/it/10.95 ndiferencial$\T1/cmr/m/n/1
+0.95 S''(x)+S(x)=0$\OML/cmm/m/it/10.95 conlascondicionesdecontorno$\T1/cmr/m/n/
+10.95 S(0)=0$\OML/cmm/m/it/10.95 ;$\T1/cmr/m/n/10.95 S'(0)=1$\OML/cmm/m/it/10.9
+5 paralaqueexistesoluci[]n[]nica[]:$ 
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.83 ...fica que no puede expresarse como fracci√≥
+                                                  n de dos n√∫meros enteros,...
+
+? 
+! Extra }, or forgotten $.
+\maththreesuperior ->{^3}
+                         
+l.83 ...fica que no puede expresarse como fracci√≥
+                                                  n de dos n√∫meros enteros,...
+
+? 
+
+LaTeX Warning: Command \~ invalid in math mode on input line 83.
+
+
+LaTeX Warning: Command \textordmasculine invalid in math mode on input line 83.
+
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 83.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 84.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 84.
+
+
+LaTeX Warning: Command \textordmasculine invalid in math mode on input line 84.
+
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 84.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 84.
+
+
+LaTeX Warning: Command \textordmasculine invalid in math mode on input line 84.
+
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 84.
+
+
+LaTeX Warning: Command \textexclamdown invalid in math mode on input line 84.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 85.
+
+
+LaTeX Warning: Command \textexclamdown invalid in math mode on input line 85.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 85.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 85.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 86.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 86.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.87 
+     
+? 
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no Ω in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no Ω in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+
+Overfull \hbox (393.54259pt too wide) in paragraph at lines 83--87
+\T1/cmr/m/n/10.95 sarse co-mo fracci√$[]\OML/cmm/m/it/10.95 ndedosn[]merosenter
+os; comodemostr[]JohannHeinrichLamberten\OT1/cmr/m/n/10.95 1761(\OML/cmm/m/it/1
+0.95 o\OT1/cmr/m/n/10.95 1767)\OML/cmm/m/it/10.95 :Tambi[]nesunn[]merotrascende
+nte; esdecir; quenoeslara\T1/cmr/m/n/10.95 -
+ []
+
+
+Overfull \hbox (733.73457pt too wide) in paragraph at lines 83--87
+\OML/cmm/m/it/10.95 zdening[]npolinomiodecoeficientesenteros:EnelsigloXIXelmate
+mticoalemnFerdinandLindemanndemostr[]estehecho; cerrandoconellodefinitivamentel
+apermanenteyarduainvestigaci[]nacercadelproblemadelacuadraturadelc\T1/cmr/m/n/1
+0.95 -
+ []
+
+
+LaTeX Warning: Reference `Kochanski' on page 2 undefined on input line 88.
+
+File: images/figura1.eps Graphic file (type eps)
+<images/figura1.eps>
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `latin1'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.101 \section{√âpoca moderna}
+                              
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.102 Desde el dise√±
+                     o de la primera computadora se empezaron a desarrollar ...
+
+? 
+
+LaTeX Warning: Command \~ invalid in math mode on input line 102.
+
+
+LaTeX Warning: Command \textexclamdown invalid in math mode on input line 102.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 102.
+
+
+LaTeX Warning: Command \textordmasculine invalid in math mode on input line 102
+.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.102 ...rogramas para el c√°lculo del n√∫mero \PI
+                                                   con la mayor cantidad de ...
+
+? 
+Missing character: There is no √ in font cmr10!
+Missing character: There is no Ω in font cmr10!
+Missing character: There is no √ in font cmr10!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.102 ...rogramas para el c√°lculo del n√∫mero \PI
+                                                   con la mayor cantidad de ...
+
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.104 ...√≠an r√©cords y, de esta forma, pocos a√±
+                                                  os despu√©s (1954) un NORA...
+
+? 
+
+LaTeX Warning: Command \~ invalid in math mode on input line 104.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 104.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 104.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 105.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 105.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 106.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 106.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 106.
+
+
+LaTeX Warning: Command \textordmasculine invalid in math mode on input line 106
+.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.106 ... de series de n√∫meros procedentes de \PI
+                                                  , en la tabla \ref{tiempo},
+? 
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no √ in font cmr10!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.106 ... de series de n√∫meros procedentes de \PI
+                                                  , en la tabla \ref{tiempo},
+? 
+
+LaTeX Warning: Reference `tiempo' on page 2 undefined on input line 106.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.107 podemos observar la evoluci√≥
+                                   n de las cifras.
+? 
+! Extra }, or forgotten $.
+\maththreesuperior ->{^3}
+                         
+l.107 podemos observar la evoluci√≥
+                                   n de las cifras.
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.108 
+      
+? 
+
+Overfull \hbox (156.8159pt too wide) in paragraph at lines 102--108
+[]\T1/cmr/m/n/10.95 Desde el dise√$\OMS/cmsy/m/n/10.95 ^^F\OML/cmm/m/it/10.95 o
+delaprimeracomputadoraseempezaronadesarrollarprogramasparaelclculodeln[]mero[]$
+$^^Y$
+ []
+
+
+Overfull \hbox (140.59541pt too wide) in paragraph at lines 102--108
+\T1/cmr/m/n/10.95 es-ta for-ma, pocos a√$\OMS/cmsy/m/n/10.95 ^^F\OML/cmm/m/it/1
+0.95 osdespu[]s\OT1/cmr/m/n/10.95 (1954)\OML/cmm/m/it/10.95 unNORAClleg[]a\OT1/
+cmr/m/n/10.95 3092\OML/cmm/m/it/10.95 cifras:Durantecasitodalad[]cadadelosa \OM
+S/cmsy/m/n/10.95 ^^F
+ []
+
+
+Overfull \hbox (806.5882pt too wide) in paragraph at lines 102--108
+\OML/cmm/m/it/10.95 os\OT1/cmr/m/n/10.95 1960\OML/cmm/m/it/10.95 losIBMfueronba
+tiendor[]cords; hastaqueunIBM\OT1/cmr/m/n/10.95 7030\OML/cmm/m/it/10.95 pudolle
+garen\OT1/cmr/m/n/10.95 1966\OML/cmm/m/it/10.95 a\OT1/cmr/m/n/10.95 250[]000\OM
+L/cmm/m/it/10.95 cifrasdecimales\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 en\OT1/
+cmr/m/n/10.95 8\OML/cmm/m/it/10.95 hy\OT1/cmr/m/n/10.95 23\OML/cmm/m/it/10.95 m
+in\OT1/cmr/m/n/10.95 )\OML/cmm/m/it/10.95 :Duranteesta[]pocaseprobabanlasnuevas
+computadorasconalgoritmosparalageneraci[]ndeseriesden[]merosprocedentesde[]$$^^
+Y$
+ []
+
+[2
+! Argument of \@sect has an extra }.
+<inserted text> 
+                \par 
+l.108 
+      
+? 
+Runaway argument?
+{\normalfont \large \bfseries }##1 ${}\def \reserved@b {o}\ifcat _\expandafter 
+\ETC.
+! Paragraph ended before \@sect was complete.
+<to be read again> 
+                   \par 
+l.108 
+      
+? 
+]
+! Missing $ inserted.
+<inserted text> 
+                $
+l.113 A√±
+         o & Descubridor & Ordenador utilizado & N¬∫ de cifras \\ \hline
+? 
+! Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \hskip -.5\arrayrulewidth \vrule...
+l.113 A√±o &
+             Descubridor & Ordenador utilizado & N¬∫ de cifras \\ \hline
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.113 A√±o &
+             Descubridor & Ordenador utilizado & N¬∫ de cifras \\ \hline
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.113 A√±o &
+             Descubridor & Ordenador utilizado & N¬∫ de cifras \\ \hline
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.123 \caption{Evoluci√≥n del n√∫mero de cifras}
+                                                
+? 
+! Extra }, or forgotten $.
+\maththreesuperior ->{^3}
+                         
+l.123 \caption{Evoluci√≥n del n√∫mero de cifras}
+                                                
+? 
+
+LaTeX Warning: Command \~ invalid in math mode on input line 123.
+
+
+LaTeX Warning: Command \textordmasculine invalid in math mode on input line 123
+.
+
+! Extra }, or forgotten $.
+\sbox ...hbox {\color@setgroup #2\color@endgroup }
+                                                  
+l.123 \caption{Evoluci√≥n del n√∫mero de cifras}
+                                                
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.123 \caption{Evoluci√≥n del n√∫mero de cifras}
+                                                
+? 
+Missing character: There is no √ in font cmr10!
+! Missing } inserted.
+<inserted text> 
+                }
+l.123 \caption{Evoluci√≥n del n√∫mero de cifras}
+                                                
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.123 \caption{Evoluci√≥n del n√∫mero de cifras}
+                                                
+? 
+(./memte.bbl [3]) [4] (./memte.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ )
+(\end occurred inside a group at level 1)
+
+### simple group (level 1) entered at line 107 ({)
+### bottom level 
+Here is how much of TeX's memory you used:
+ 1549 strings out of 495062
+ 17873 string characters out of 1182644
+ 76427 words of memory out of 3000000
+ 4733 multiletter control sequences out of 15000+50000
+ 21419 words of font info for 50 fonts, out of 3000000 for 9000
+ 28 hyphenation exceptions out of 8191
+ 25i,12n,27p,361b,328s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on memte.dvi (4 pages, 11616 bytes).
